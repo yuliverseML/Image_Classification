@@ -1,4 +1,4 @@
-# Cats vs Dogs Image Classifier
+# Cats vs Dogs Image Classifier with MobileNetV2
 
 ## Project Overview
 This repository contains a TensorFlow implementation of a convolutional neural network (CNN) for classifying images as either cats or dogs. The model uses transfer learning with MobileNetV2 as the base architecture, which is pre-trained on ImageNet. This approach allows for high accuracy with minimal training time.
